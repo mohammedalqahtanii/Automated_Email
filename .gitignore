@@ -1,0 +1,5 @@
+config.py
+Emails_info.xlsx
+
+*.pdf
+__pycache__/
